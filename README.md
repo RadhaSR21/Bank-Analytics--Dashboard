@@ -14,4 +14,4 @@ Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims t
 - Grade wise funded amount
 - Annual Funding & Payment Trend
 
-- Bank Loan Dashboard Interaction <a herf="https://github.com/RadhaSR21/Bank-Analytics--Dashboard/blob/main/Bank%20Loan%20Dashboard.png " > view Dashboard </a>
+# Bank Loan Dashboard Interaction <a herf="https://github.com/RadhaSR21/Bank-Analytics--Dashboard/blob/main/Bank%20Loan%20Dashboard.png " > view Dashboard </a>
