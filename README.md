@@ -3,5 +3,3 @@
 The Bank Data Analyst Project focuses on analyzing financial and customer data to derive actionable insights that support better decision-making in the banking sector. The project involves collecting, cleaning, and transforming large datasets related to customer transactions, loan performance, credit risk, and customer demographics.
 Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims to identify key trends in customer behavior, assess loan default risks, detect fraudulent activities, and improve overall customer experience.
 
-## Dataset used
- -<a href=" https://github.com/RadhaSR21/Bank-Analytics--Dashboard/commit/5b72e93d5b7094df6ccbb3da3c2fcaef311683f0" Bank Loan dataset</a>
