@@ -14,16 +14,16 @@ Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims t
 - Grade wise funded amount
 - Annual Funding & Payment Trend
 
-Key Responsibilities:
+# Key Responsibilities:
 
-Gather and preprocess raw data from multiple banking sources.
+1.Gather and preprocess raw data from multiple banking sources.
 
-Perform Exploratory Data Analysis (EDA) to uncover trends, anomalies, and correlations.
+2.Perform Exploratory Data Analysis (EDA) to uncover trends, anomalies, and correlations.
 
-Develop KPIs such as loan approval rate, default ratio, average transaction value, and customer churn rate.
+3.Develop KPIs such as loan approval rate, default ratio, average transaction value, and customer churn rate.
 
-Create interactive dashboards to present insights to stakeholders.
+4.Create interactive dashboards to present insights to stakeholders.
 
-Build predictive models to evaluate credit risk and customer segmentation.
+5.Build predictive models to evaluate credit risk and customer segmentation.
 
-Provide data-driven recommendations to enhance banking efficiency and customer satisfaction.
+6.Provide data-driven recommendations to enhance banking efficiency and customer satisfaction.
