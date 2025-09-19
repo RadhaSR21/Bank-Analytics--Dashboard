@@ -20,7 +20,7 @@ Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims t
 
 2.Perform Exploratory Data Analysis (EDA) to uncover trends, anomalies, and correlations.
 
-3.Develop KPIs such as loan approval rate, default ratio, average transaction value, and customer churn rate.
+3.Develop KPIs such as Total loan , Total interest, Total Revenue, and Loan amount funded.
 
 4.Create interactive dashboards to present insights to stakeholders.
 
