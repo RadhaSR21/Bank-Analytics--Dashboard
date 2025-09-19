@@ -3,7 +3,7 @@
 The Bank Data Analyst Project focuses on analyzing financial and customer data to derive actionable insights that support better decision-making in the banking sector. The project involves collecting, cleaning, and transforming large datasets related to customer transactions, loan performance, credit risk, and customer demographics.
 Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims to identify key trends in customer behavior, assess loan default risks, detect fraudulent activities, and improve overall customer experience.
 
-##Questions (KPIs)
+# Questions (KPIs)
 - Total Loan
 - Total Loan amount funded
 - Total Interest
@@ -14,3 +14,16 @@ Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims t
 - Grade wise funded amount
 - Annual Funding & Payment Trend
 
+Key Responsibilities:
+
+Gather and preprocess raw data from multiple banking sources.
+
+Perform Exploratory Data Analysis (EDA) to uncover trends, anomalies, and correlations.
+
+Develop KPIs such as loan approval rate, default ratio, average transaction value, and customer churn rate.
+
+Create interactive dashboards to present insights to stakeholders.
+
+Build predictive models to evaluate credit risk and customer segmentation.
+
+Provide data-driven recommendations to enhance banking efficiency and customer satisfaction.
