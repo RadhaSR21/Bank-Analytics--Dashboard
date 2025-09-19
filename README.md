@@ -1,2 +1,3 @@
 # Bank-Analytics-Dashboard
-Main aims to extract valuable insights from banking data to improve business operations, mitigate risks, and enhance customer experience. The specific objectives can be categorized into several key areas.
+The Bank Data Analyst Project focuses on analyzing financial and customer data to derive actionable insights that support better decision-making in the banking sector. The project involves collecting, cleaning, and transforming large datasets related to customer transactions, loan performance, credit risk, and customer demographics.
+Using tools such as Excel, SQL, Python, and Power BI/Tableau, the project aims to identify key trends in customer behavior, assess loan default risks, detect fraudulent activities, and improve overall customer experience.
